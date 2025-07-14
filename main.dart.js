@@ -85276,7 +85276,7 @@ $0(){A.fe(this.a,!1).q6(null)},
 $S:0}
 A.aot.prototype={
 $0(){this.a.rG()
-if(B.c.n(window.navigator.userAgent.toLowerCase(),"android")||B.c.n(window.navigator.userAgent.toLowerCase(),"iphone"))window.location.href="upi://pay?pa=vishnu.chauhan@ptyes&pn=ReceiverName&am=1997&cu=INR"
+if(B.c.n(window.navigator.userAgent.toLowerCase(),"android")||B.c.n(window.navigator.userAgent.toLowerCase(),"iphone"))window.location.href="upi://pay?pa=vishnu.chauhan@ptyes&pn=Vishnu%20Chauhan&am=1997&cu=INR"
 else A.ip("UPI payments are supported only on mobile devices.")},
 $S:0}
 A.aou.prototype={
